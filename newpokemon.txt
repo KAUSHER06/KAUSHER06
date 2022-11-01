@@ -1,0 +1,118 @@
+a"Name"aSpeed
+0a"Bulbasaur"a45
+1a"Ivysaur"a60
+2a"Venusaur"a80
+3a"VenusaurMega Venusaur"a80
+5a"Charmeleon"a80
+6a"Charizard"a100
+7a"CharizardMega Charizard X"a100
+8a"CharizardMega Charizard Y"a100
+43a"Ninetales"a100
+48aOddisha30
+49aGlooma40
+50aVileplumea50
+63aGrowlithea60
+64a"Arcanine"a95
+75aBellsprouta40
+76aWeepinbella55
+77aVictreebela70
+83a"Ponyta"a90
+84a"Rapidash"a105
+110aExeggcutea40
+111aExeggutora55
+122a"Tangela"a60
+135a"Magmar"a93
+147a"Flareon"a65
+158aMoltresa90
+166a"Chikorita"a45
+167a"Bayleef"a60
+168a"Meganium"a80
+170a"Quilava"a80
+171aTyphlosiona100
+197aBellossoma50
+202aHoppipa50
+203aSkiplooma80
+204aJumpluffa110
+206aSunkerna30
+207a"Sunflora"a30
+237a"Magcargo"a30
+259a"Magby"a83
+263aEnteia100
+270aHo-oha90
+272aTreeckoa70
+273aGrovylea95
+274aSceptilea120
+275a"SceptileMega Sceptile"a145
+276aTorchica45
+277aCombuskena55
+278a"Blaziken"a80
+279a"BlazikenMega Blaziken"a100
+296aSeedota30
+297a"Nuzleaf"a60
+298aShiftrya80
+309aShroomisha35
+310aBrelooma70
+344a"Roselia"a65
+352aNumela35
+353a"Camerupt"a40
+354a"CameruptMega Camerupt"a20
+355a"Torkoal"a20
+362a"Cacnea"a35
+363a"Cacturne"a55
+390aTropiusa51
+432aTurtwiga31
+433aGrotlea36
+434a"Torterra"a56
+435a"Chimchar"a61
+436aMonfernoa81
+437a"Infernape"a108
+451aBudewa55
+452a"Roserade"a90
+467aCherubia35
+468aCherrima85
+505a"Carnivine"a46
+509aSnovera40
+510a"Abomasnow"a60
+511a"AbomasnowMega Abomasnow"a30
+516a"Tangrowth"a50
+518a"Magmortar"a83
+521a"Leafeon"a95
+542a"Heatran"a77
+550a"ShayminLand Forme"a100
+551a"ShayminSky Forme"a127
+554aSnivya63
+555aServinea83
+556aSerperiora113
+557aTepiga45
+558aPignitea55
+559a"Emboar"a65
+570a"Pansage"a64
+571a"Simisage"a101
+572a"Pansear"a64
+573a"Simisear"a101
+606aCottoneea66
+607aWhimsicotta116
+608aPetilila30
+609a"Lilligant"a90
+614a"Darumaka"a50
+615a"DarmanitanStandard Mode"a95
+616a"DarmanitanZen Mode"a55
+617a"Maractus"a60
+651aFoongusa15
+652aAmoongussa30
+658aFerroseeda10
+659aFerrothorna20
+692a"Heatmor"a65
+701aViriziona108
+718aChespina38
+719a"Quilladin"a57
+720a"Chesnaught"a64
+722a"Braixen"a73
+723aDelphoxa104
+730aFletchindera84
+731a"Talonflame"a126
+735aLitleoa72
+736a"Pyroar"a106
+740aSkiddoa52
+741a"Gogoat"a68
+799a"Volcanion"a70
